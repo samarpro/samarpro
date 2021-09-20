@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @samarpro
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m @Samarpan (@samarpro)
+- 👀 I’m interested anything
+- 🌱 I’m currently learning Everything I can .....
+- 💞️ I’m looking to collaborate with Tech StartUp.
 - 📫 How to reach me 
 
 <!---
