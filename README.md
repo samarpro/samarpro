@@ -17,7 +17,7 @@ I build things that get used, not things that sit in a repo.
 
 **🎓 RAG Chatbot** — Built for Deakin College. Hybrid BM25 + vector retrieval (Voyage AI, Qdrant), Gemini for generation. Officially adopted by the institution, now serving 50+ students.
 
-**⚙️ Squizify** — Selenium-based compliance automation, live as a commercial client engagement.
+**⚙️ Compliance Automations** — Selenium-based compliance automation, live as a commercial client engagement.
 
 ### How I work
 
